@@ -1,10 +1,6 @@
 ## SHALU TYAGI
-
-
-You can use the [editor on GitHub](https://github.com/shalu143/shalu143.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+### PROFILE
+Analytical & process-oriented data scientist with strong mathematical and statistical background with experience in solving business problems using predictive modelling, data processing using advanced analytics, machine learning algorithms, deep learning and optimization algorithms. Hands on experience in Python, SQL & R.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
