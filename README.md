@@ -1,5 +1,5 @@
 ## SHALU TYAGI
-[LINKEDIN](https://www.linkedin.com/in/shalu-tyagi-b00256125/) | [GITHUB](https://github.com/shalu143/) | [HACKKERANK](https://www.hackerrank.com/shalu_tyagi03)
+[LINKEDIN](https://www.linkedin.com/in/shalu-tyagi-b00256125/) | [GITHUB](https://github.com/shalu143/) | [HACKERANK](https://www.hackerrank.com/shalu_tyagi03)
 ### PROFILE
 Analytical & process-oriented data scientist with strong mathematical and statistical background with experience in solving business problems using predictive modelling, data processing using advanced analytics, machine learning algorithms, deep learning and optimization algorithms. Hands on experience in Python, SQL & R.
 ### SKILLS
@@ -7,41 +7,32 @@ Analytical & process-oriented data scientist with strong mathematical and statis
 * **Tools**: Excel, Git
 * **Machine Learning** Algos like Linear and Logistic Regression, Random Forest, Gradient Boosting
 * **Deep Learning** algo like ANN, CNN
-* **clustering**
-* **DImentionality Reduction Techniques** like PCA, t-SNE
+* **Clustering**
+* **Dimentionality Reduction Techniques** like PCA, t-SNE
 * **Optimization** techniques including OR tools, Genetic Algorithm, Randomized Grid Search
 * **Statistical Testing**
 * **API Creation**
 * **Model Deployment**
-* **Hadoop, Spark, Hive **
+* **Hadoop**, **Spark**, **Hive **
+
+## PROFESSIONAL EXPERIENCE
+### DATA SCIENTIST | Jio Platforms Limited |Navi Mumabai- Maharashtra| Apr 2020- Present
+#### Roles and Responsibilties
+*Collaborate with business team, gather requirements and understand them
+* Build a data driven scalable solution to solve complex business problems
+* Design, Develop, Validate and Deploy machine learning models. Also, maintain, monitor those models and provide support to the end users
+* Mentoring Interns and Capability building of different teams by organizing knowledge sharing sessions, trainings and workshops
+#### Projects
+* Exploratory Data Analysis (EDA) Automation tool: Built a python package for EDA automation named “dataanalyser” and an API to be used by reliance senior management and technical teams resulting in time saving (~ 70 %) and increased productivity
+* RSRP (Signal Power) Prediction and Etilt- Optimization of the Jio Towers: Implemented a Neural Network model with variables derived from domain path loss models to predict the Received Signal Power of a user equipment. Scaled the model for one Jio Centre. PAN India implementation is WIP.
+As a result, third party license cost to be eliminated
+* Audit Process Automation: Developed templates for Audit controls to automate the process from ingestion of data and producing audit report. Manual efforts were eliminated and resulted in increased productivity
+* LPG Cylinder Distribution cost Optimization and developing a front-end solution: Automated the Route creation using hybrid approach that used clustering followed by Knapsack and TSP that results in least cost while delivering cylinders from Bottling plants to Distribution Outlets.
+As a result, Manual efforts were eliminated and cost reduction of ~ 10% per distributor annually. Project is in final validation stage
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shalu143/shalu143.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
