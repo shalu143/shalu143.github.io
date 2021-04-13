@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+<center><h1><font size="4" face="Harrington" color="yellow">SHALU TYAGI</font></h1></center>
+
 
 You can use the [editor on GitHub](https://github.com/shalu143/shalu143.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
