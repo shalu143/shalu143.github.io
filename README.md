@@ -1,7 +1,12 @@
 ## SHALU TYAGI
+[LINKEDIN](https://www.linkedin.com/in/shalu-tyagi-b00256125/)|[GITHUB](https://github.com/shalu143/)|[HACKKERANK](https://www.hackerrank.com/shalu_tyagi03)
 ### PROFILE
 Analytical & process-oriented data scientist with strong mathematical and statistical background with experience in solving business problems using predictive modelling, data processing using advanced analytics, machine learning algorithms, deep learning and optimization algorithms. Hands on experience in Python, SQL & R.
-### Markdown
+### SKILLS
+1. **Languages**: Python, SQL, R, R-shiny\
+2. **Tools**: Excel, Git
+3. **Data Science**: 1. Machine 
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
